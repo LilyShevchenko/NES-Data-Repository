@@ -6,15 +6,15 @@ Topics:
 0. General thoughts 
 1. [Finance](#Finance)
 2. [Economics](#Economics)
-3. [Economic History](#Economic History)
-4. [Political Science](#Political Science)
-5. [Machine Learning](#Machine Learning)
+3. [Economic History](#EconomicHistory)
+4. [Political Science](#PoliticalScience)
+5. [Machine Learning](#MachineLearning)
 6. [Marketing](#Marketing) 
 7. [Environment](#Environment)
 8. [News](#News)
-9. [Spatial Data](#Spatial Data)
-10.[Data by Country](#Data by Country)
-11.[Miscellaneous](#Miscellaneous)
+9. [Spatial Data](#SpatialData)
+10. [Data by Country](#DatabyCountry)
+11. [Miscellaneous](#Miscellaneous)
 
 
 There are several large resources which can help you with any type of data search, regardless of the topic. These are Kaggle, Google Dataset Search, Harvard Dataverse, Statista and several others. Here are some examples of what you get get from there:
