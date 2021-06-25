@@ -1,6 +1,6 @@
 ## Welcome to NES Data Repository
 
-:robot: :robot: :robot: :robot:
+
 This page aggregates information about data sources known to us, including:
 
 1. Proprietary databases NES has access to:
